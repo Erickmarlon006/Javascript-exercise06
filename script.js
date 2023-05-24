@@ -17,7 +17,5 @@ while(true){
  var sorteado = listaDeNomes[Math.floor(Math.random() * listaDeNomes.length)]['nome'];
  console.log(sorteado);
  alert("E o sorteado/a foi: " + sorteado.toUpperCase());
- 
- 
 
-        
+
